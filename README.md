@@ -34,6 +34,9 @@ This project applies machine learning techniques to the historical Titanic datas
 ## 📽️ Execution & Demo
 
 
+https://github.com/user-attachments/assets/837bfca4-9078-4a18-8c0f-a2f8cbc5a3dd
+
+
 
 ---
 
